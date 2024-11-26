@@ -1,0 +1,73 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Maven specific files
+target/
+*.jar
+*.war
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Spring MVC related files
+# Ignore uploaded files (e.g., user profile pictures or other uploads)
+uploads/
+*.csv
+*.json
+
+# Generated files
+bin/
+generated/
+
+# Ignore IntelliJ IDEA specific files (in case you switch IDEs)
+.idea/
+*.iml
+
+# Node Modules (if you use Node.js or any frontend framework like React/Angular for some functionality)
+node_modules/
+
+# Configuration files (if you have sensitive information stored here)
+*.env
+application.properties
+application.yml
+
+# Exclude any database files, backups, or dumps
+*.db
+*.sqlite
+*.sql
+*.dump
+
+# Ignore compiled Java files
+*.class
+
+# Ignore packaged archives (if using JAR/WAR/EAR)
+*.jar
+*.war
+*.ear
+
+# Ignore any test results
+test-output/
+surefire-reports/
+
+# Temporary IDE build files
+/.apt_generated/
+/.factorypath
+/.vscode/
+
+# Ignore generated swagger or documentation files
+swagger-ui/
+api-docs/
