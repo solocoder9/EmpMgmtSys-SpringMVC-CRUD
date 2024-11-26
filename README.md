@@ -4,12 +4,12 @@ Employee Management System is a Java-based web application that allows administr
 
 ## Table of Contents
 
-- 🌟 Features
-- 💻 Technologies Used
-- 🛠️ Setup Instructions
-- 🚀 Usage
-- 🤝 Contributing
-- 📝 License
+- [🌟 Features](#features)
+- [💻 Technologies Used](#technologies-used)
+- [🛠️ Setup Instructions](#setup-instructions)
+- [🚀 Usage](#usage)
+- [🤝 Contributing](#contributing)
+- [📝 License](#license)
 
 ## 🌟 Features
 
